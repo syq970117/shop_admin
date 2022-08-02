@@ -7,3 +7,16 @@ body,
   margin: 0;
   padding: 0;
 }
+
+.el-breadcrumb {
+  margin-bottom: 10px;
+}
+
+.el-table {
+  margin-top: 20px;
+  font-size: 12px;
+}
+
+.el-pagination {
+  margin-top: 20px;
+}
