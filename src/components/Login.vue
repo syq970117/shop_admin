@@ -3,7 +3,7 @@
     <div class="login_box">
       <!-- 头像 -->
       <div class="avatar_box">
-        <img src="../assets/images/WechatIMG714.jpeg" alt="" />
+        <img src="../assets/images/avatar.jpeg" alt="" />
       </div>
       <!-- 登录表单 -->
       <el-form
@@ -90,8 +90,7 @@ export default {
 
 <style lang="less">
 .login_container {
-  background: url(../assets/images/WechatIMG713.jpeg);
-  background-size: contain;
+  background: skyblue;
 }
 
 .login_box {
