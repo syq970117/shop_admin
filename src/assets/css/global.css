@@ -45,3 +45,15 @@ body,
 .el-radio__input.is-checked .el-radio__inner {
   background: transparent;
 }
+
+.el-steps {
+  margin: 20px 0;
+}
+
+.el-step__title {
+  font-size: 12px;
+}
+
+.ql-editor {
+  min-height: 300px;
+}

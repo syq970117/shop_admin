@@ -445,7 +445,7 @@ export default {
 
       // 文本框自动获得焦点
       // $nextTick 方法作用，就是当页面上元素被重新渲染之后，才会指定回调函数中的代码
-      this.$nextTick((_) => {
+      this.$nextTick(() => {
         this.$refs.saveTagInput.$refs.input.focus();
       });
     },
